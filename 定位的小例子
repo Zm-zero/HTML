@@ -26,11 +26,7 @@
                   transition:0.1s;
 
                 }
-
                 div:hover span{top:100px;}
-
-             
-
                 </style>
          </head>
           <body>
@@ -38,8 +34,5 @@
           	<span>鼠标由下至上移入</span>
            
           </div>
-
-
-
           </body>
 </html>

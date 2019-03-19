@@ -1,0 +1,18 @@
+
+<html>
+         <head>
+                <meta charset=“ut f-8>
+                <title>HTML</title>
+               
+                <style>
+                div{width:300px;
+                  height:250px;
+                  border:5px solid aqua;
+                  background:pink;
+                  }
+                </style>
+         </head>
+          <body>
+          <div>HTML~!</div>
+          </body>
+</html>

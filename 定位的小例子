@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+         <head>
+                <meta charset=“ut f-8>
+                <title>定位的小例子</title>
+               <!--<link rel="stylesheet" href="css/reset.css">-->
+                <style>
+                div{width:300px;
+                  height:250px;
+                  border:5px solid aqua;
+                  background:pink;
+                  position:relative;
+                  overflow:hidden;
+
+                }
+
+                span{width:300px;
+                  height:150px;
+                  background:gold;
+                  text-align:center;
+                  line-height:150px;
+                  font-size:15px;
+                  display:block;
+                  position:absolute;
+                  top:250px;
+                  transition:0.1s;
+
+                }
+
+                div:hover span{top:100px;}
+
+             
+
+                </style>
+         </head>
+          <body>
+          <div>
+          	<span>鼠标由下至上移入</span>
+           
+          </div>
+
+
+
+          </body>
+</html>
